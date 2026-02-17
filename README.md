@@ -1,6 +1,11 @@
 # 💫 About Me:
 👋 Hi, I'm Priyansh Ghosh<br><br>🚀 Developer focused on AI, Robotics, and Full-Stack Engineering <br>🧠 Strong background in Machine Learning, Backend Systems, and Database Management<br>🤖 Currently working on Robotics and Artificial Intelligence projects<br>- 🧩 Building real-world applications involving ML models, automation, and system integration<br>- 🌐 Experienced in **Full Stack Development (React + Python/Flask/FastAPI)**<br>- 🗄️ Specialized in **Database Design, Optimization, and Management**<br>- ⚙️ Comfortable debugging low-level issues, deployments, and performance bottlenecks<br>- 📦 Experience deploying apps on **Vercel, local servers, and cloud environments**
 
+**Important Projects**<br>
+1.**CounselX(AI based Counsellor Services and Job opinions)** <br>
+<br>2. **Digital Health Twin (AI based health suggestion and tracking model** <br>
+<br>3. **NISHKAPAT (Scam Detecting Software)** <br>
+<br>4. **KISHIRAKSHA (Farmer help providing website and also crop detection and suggestion** <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-ghosh-376780354/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyansh0804@gmail.com) 
