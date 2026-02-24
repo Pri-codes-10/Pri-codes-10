@@ -7,6 +7,7 @@
 <br>2. **Digital Health Twin (AI based health suggestion and tracking model** <br>
 <br>3. **NISHKAPAT (Scam Detecting Software)** <br>
 <br>4. **KISHIRAKSHA (Farmer help providing website and also crop detection and suggestion** <br>
+<br>5. **Archnext (land plotting and predicting prices for lands in kolkata)** 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-ghosh-376780354/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyansh0804@gmail.com) 
